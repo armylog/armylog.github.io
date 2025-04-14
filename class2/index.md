@@ -1,5 +1,5 @@
 ---
 title: Clothing and Equipment (CL II)
 layout: home
-nav_order: 7
+nav_order: 13
 ---
