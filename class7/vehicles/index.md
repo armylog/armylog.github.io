@@ -1,5 +1,5 @@
 ---
 title: Vehicles (CL VII)
-layout: hom
+layout: home
 nav_order: 13
 ---
