@@ -1,5 +1,5 @@
 ---
 title: Weapon Systems (CL VII)
 layout: home
-nav_order: 14
+nav_order: 19
 ---
