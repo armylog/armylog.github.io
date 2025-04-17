@@ -1,6 +1,6 @@
 ---
 title: Division Sustainment Support Battalion (DSSB)
 layout: home
-parent: tactical units
+parent: Tactical Units
 nav_order: 3
 ---
