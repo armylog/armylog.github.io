@@ -4,6 +4,8 @@ layout: home
 nav_order: 2
 ---
 
+# Overview
+
 The point of procurement can be thought of as the starting point of the Army supply network. Barring a few exceptions, the Army acquires its supplies from private contractors who convert raw materials into end user materiel.[^1] The entities responsible for this acquisiton process are part of a group of entities referred to as strategic enablers.
 
 Besides acquisition, strategic enablers conduct coordination of movement of materiel from manufacturers to the theater environment. Distribution to theaters outside the continental United States passes through ports of embarkation, or ports (naval or aerial) from which supplies depart the continent. The ports which receive them (sea or air) are known as ports of debarkation, which act as the supply entry point into a theater. The space between point of procurement and the port of debarkation is thought of as the strategic logistics domain (or the strategic support area).
