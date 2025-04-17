@@ -1,6 +1,6 @@
 ---
 title: Sustainment Brigade
 layout: home
-parent: Operational Units
+parent: Tactical Units
 nav_order: 1
 ---
