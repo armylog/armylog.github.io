@@ -12,7 +12,7 @@ Strategic enablers typically transfer responsibility of materiel to the the thea
 
 The TSC may delegate theater sustainment planning for part of its AOR to an expeditionary sustainment command (ESC). This ESC provides additional command and control (C2) of operational support units who more precisely forecast and meet the needs of the tactical units within a particular area in the theater. Tactical units at or below the division level (such as the division sustainment brigade) coordinate with the TSC (or ESC, if one is attached to it) to obtain supplies at the point of need.
 
-Support activities at the TSC/ESC level is characterized as operational, whereas activities at the division level and below are considered tactical. Tactical sustainment activities occur at the division level and below. The point of employment of distirbuted material marks the end of the Army supply distribution chain. 
+Support activities at the TSC/ESC level is characterized as operational, whereas sustainment activities at the division level and below are considered tactical. The point of employment of distirbuted material by tactical units marks the end of the Army supply distribution chain. 
 
 
 
