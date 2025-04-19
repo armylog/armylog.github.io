@@ -10,4 +10,4 @@ Strategic enablers serve as the Army's interface to the industrial base. General
 
 ----
 
-[^1] Though acquisitions are conducted outside DLA and AMC, the majority of the Army's purchasing activities are conducted within the two agencies.
+[^1]: Though acquisitions are conducted outside DLA and AMC, the majority of the Army's purchasing activities are conducted within the two agencies.
