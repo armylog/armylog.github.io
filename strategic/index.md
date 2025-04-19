@@ -12,6 +12,8 @@ The U.S. Transportation Command (TRANSCOM) is a combatant command charged with t
 
 The Theater Sustainment Command (TSC) is an operational-level sustainment unit that coordinates with DLA, AMC, and TRANSCOM to obtain and distribute materiel throughout its AOR. 
 
+![](../../strategic/images/strategic-tsc-relationship.png)
+
 ----
 
 [^1]: Though acquisitions are conducted outside DLA and AMC, the majority of the Army's purchasing activities are conducted within the two agencies.
