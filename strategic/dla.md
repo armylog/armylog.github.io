@@ -5,9 +5,9 @@ parent: Strategic Entities
 nav_order: 1
 ---
 
-## Defense Logistics Agency Overview
+## Defense Logistics Agency
 
-The DLA has six major subordinate commands:
+The Defense Logistics Agency (DLA) has six major subordinate commands:
 
 * DLA Troop Support - procurer and manager of subsistence, clothing, construction materials, and medical equipments (classes I, II, IV, and XIII)
 * DLA Energy - procurer of fuel and energy products (class III)
